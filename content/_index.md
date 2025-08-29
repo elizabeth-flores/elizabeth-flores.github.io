@@ -39,9 +39,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Current research examines how engagement with regional foodways through participatory learning and cultural exchange influences the cultural well-being of K’iche’ Maya migrants in Rhode Island. By integrating Narragansett ecological knowledge with Maya foodways, this project explores how Indigenous migrants can revitalize their food systems and practice cultural resilience.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        The research aims to:
+        - Assess the impact of ecological knowledge-sharing on food sovereignty and cultural resilience.
+        - Develop GIS-based tools for identifying areas of food insecurity and opportunities for Indigenous-led food initiatives
+        - Provide a model for intertribal collaboration that could inform future initiatives supporting Indigenous communities in diaspora. 
+        
+        This work provides the basis for a shift in the conversation from food tradition preservation in-place to a collaborative, adaptive process that navigates challenges faced by urban Indigenous peoples in diaspora.
         
         Please reach out to collaborate 😃
     design:
