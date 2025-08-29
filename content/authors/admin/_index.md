@@ -10,7 +10,7 @@ first_name: Shiung Wu
 last_name: Chien
 
 # Pronouns (optional)
-pronouns: she/her/ellaaa//
+pronouns: she/her/ella
 
 # Status emoji
 status:
