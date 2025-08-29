@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Elizabeth Flores
+title: Liz Flores
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
