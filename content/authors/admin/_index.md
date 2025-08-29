@@ -53,7 +53,7 @@ interests:
   - Traditional Ecological Knowledge
   - Transnational Migrant Histories
   - Environment and Ecology as reflected in Food Systems
- 
+  
 education:
   - area: SciB Indigenous Environmental Science
     institution: Brown University
