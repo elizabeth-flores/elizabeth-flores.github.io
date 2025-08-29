@@ -186,4 +186,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student Sci.B. in Indigenous Environmental Science at Brown University. 
+
+My current research exists at the confluence of traditional ecological knowledge and environmental science, with a focus on the environmental interactions and foodways of Indigenous migrants. I combine qualitative analysis of food/environment traditions, experiential cross-cultural immersion, and geospatial and statistical approaches to identify sources of food scarcity, locate biological food abundance in Rhode Island, and define foraging areas of interest for transnational migrants. 
