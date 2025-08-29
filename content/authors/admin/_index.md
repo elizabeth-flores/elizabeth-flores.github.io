@@ -50,9 +50,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Traditional Ecological Knowledge
+  - Transnational Migrant Histories
+  - Environment and Ecology as reflected in Food Systems
 
 education:
   - area: PhD Artificial Intelligence
