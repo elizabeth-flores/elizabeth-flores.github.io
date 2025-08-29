@@ -178,4 +178,4 @@ awards:
 
 I am an undergraduate student Sci.B. in Indigenous Environmental Science at Brown University. 
 
-My current research exists at the confluence of traditional ecological knowledge and environmental science, with a focus on the environmental interactions and foodways of Indigenous migrants. I combine qualitative analysis of food/environment traditions, experiential cross-cultural immersion, and geospatial and statistical approaches to identify sources of food scarcity, locate biological food abundance in Rhode Island, and define foraging areas of interest for transnational migrants. 
+My research exists at the confluence of traditional ecological knowledge and environmental science, with a focus on the environmental interactions and foodways of Indigenous migrants. I combine qualitative analysis of pre- and post-migration food practices, participatory intertribal collaboration, and geospatial approaches to identify sources of food scarcity and abundance for transnational migrants.
