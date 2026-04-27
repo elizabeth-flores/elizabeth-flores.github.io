@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liiiz Flores
+title: Liiz Flores
 
 # Name pronunciation (optional)
 name_pronunciation:
