@@ -7,7 +7,7 @@ name_pronunciation:
  
 # Full name (for SEO)
 first_name: Shiung Wu
-last_name: Chienn
+last_name: Chiennn
 
 # Pronouns (optional)
 pronouns: she/her/ella/rija'
