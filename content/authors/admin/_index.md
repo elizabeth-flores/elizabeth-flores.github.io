@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lizxfontt Flores
+title: Lizxfonttt Flores
 
 # Name pronunciation (optional)
 name_pronunciation:
