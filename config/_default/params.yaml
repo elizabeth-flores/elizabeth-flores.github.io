@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: stone
+  color: slate
   typography:
     pack: "academic"  # modern | academic | editorial | geometric | humanist | developer | system
 
