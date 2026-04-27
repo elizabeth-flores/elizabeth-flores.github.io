@@ -7,6 +7,8 @@
 appearance:
   mode: dark
   color: stone
+  typography:
+    pack: "academic"  # modern | academic | editorial | geometric | humanist | developer | system
 
 # SEO
 marketing:
