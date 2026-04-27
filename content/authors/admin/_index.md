@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liiz Flores
+title: Liz Flores
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -10,11 +10,11 @@ first_name: Shiung Wu
 last_name: Chien
 
 # Pronouns (optional)
-pronouns: she/her/ella
+pronouns: she/her/ella/rija'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
